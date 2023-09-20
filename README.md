@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react, css, js and c++**
 
-- 📫 How to reach me **alvindevil568@gmail.com**
+- 📫 How to reach me **yadavs47334@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
