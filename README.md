@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Quick_Pick-web-app**
 
-- 🌱 I’m currently learning **Node-js**
+- 🌱 I’m currently learning **Backend Web Development**
 
-- 💬 Ask me about **react, css, js and c++**
+- 💬 Ask me about **js, mern , python , ui ux , project management**
 
 - 📫 How to reach me **yadavs47334@gmail.com**
 
